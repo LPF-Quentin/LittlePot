@@ -1,0 +1,42 @@
+* {
+  padding: 0;
+  margin: 0;
+  background-color: brown;
+} 
+
+.navigation {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: yellow;
+  width: 100%;
+  height: 100%;
+}
+
+.navigation a {
+  color: aqua;
+  background: none;
+  font-size: 1.7rem;
+  margin-left: 4rem;
+}
+
+.potTotal {
+  background-color: crimson;
+  margin-top: 3%;
+  margin-left: 3%;
+  margin-right: 20%;
+  padding: 250px;
+}
+
+.description {
+  background-color: springgreen;
+  padding: 250px;
+  margin-right: 3%;
+  margin-top: 3%;
+  margin-left: 3%;
+}
+
+.coreSite {
+  display: flex;
+  align-items: center;
+}
